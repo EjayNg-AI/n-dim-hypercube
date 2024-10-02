@@ -18,8 +18,6 @@ Dependencies:
     - NumPy
     - Matplotlib
 
-Author:
-    Your Name (your.email@example.com)
 """
 
 import numpy as np
